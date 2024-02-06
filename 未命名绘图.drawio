@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T09:56:37.570Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ozvltiF42kl0SHPTjZxD" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-06T09:58:30.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="DiPzZbk2uGAkMNOqXWw4" version="23.1.1" type="github">
   <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
     <mxGraphModel dx="4193.5" dy="1341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -330,6 +330,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="naJAC-TWyROlUof-yu1L-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="naJAC-TWyROlUof-yu1L-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="629.998823529412" as="sourcePoint" />
+            <mxPoint x="818.0294117647063" y="729.94" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="naJAC-TWyROlUof-yu1L-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="629.998823529412" as="sourcePoint" />
+            <mxPoint x="1027.4411764705883" y="729.94" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="naJAC-TWyROlUof-yu1L-69" value="overdue A object" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="170" y="550" width="155" height="60" as="geometry" />
         </mxCell>
@@ -353,6 +365,12 @@
         </mxCell>
         <mxCell id="naJAC-TWyROlUof-yu1L-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.535;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="naJAC-TWyROlUof-yu1L-77" target="naJAC-TWyROlUof-yu1L-78">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="naJAC-TWyROlUof-yu1L-84" value="&quot;id&quot;: 136," style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="760" y="680" width="144" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="naJAC-TWyROlUof-yu1L-86" value="&quot;links&quot;: {&lt;br&gt;&quot;self&quot;: &quot;/api/v1/entity/custom_entity06s/136&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }" style="rounded=1;whiteSpace=wrap;html=1;align=left;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="955.5" y="680" width="344.5" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
